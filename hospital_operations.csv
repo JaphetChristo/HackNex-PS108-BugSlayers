@@ -1,0 +1,13 @@
+department,patients,avg_wait_time,doctors,emergency_cases
+Cardiology,120,35,8,18
+Neurology,95,42,6,12
+Orthopedics,150,28,9,20
+Pediatrics,180,22,10,15
+Dermatology,110,31,5,8
+General Medicine,250,48,12,35
+Cardiology,135,38,8,22
+Neurology,105,40,6,14
+Orthopedics,165,30,9,24
+Pediatrics,195,20,10,18
+Dermatology,125,29,5,10
+General Medicine,270,51,12,40

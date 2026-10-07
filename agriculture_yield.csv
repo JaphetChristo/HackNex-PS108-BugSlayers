@@ -1,0 +1,13 @@
+farm_id,region,crop,rainfall_mm,fertilizer_kg,temperature_c,yield_tons
+F001,North,Wheat,420,180,24,4.2
+F002,North,Rice,650,220,27,5.8
+F003,South,Rice,820,240,29,6.5
+F004,South,Cotton,580,160,30,3.8
+F005,East,Wheat,460,190,25,4.6
+F006,East,Rice,700,230,28,6.1
+F007,West,Cotton,390,150,32,3.2
+F008,West,Wheat,410,170,26,4.0
+F009,North,Wheat,440,185,23,4.5
+F010,South,Rice,850,250,28,6.8
+F011,East,Wheat,480,200,24,4.9
+F012,West,Cotton,420,155,31,3.5
